@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: Visual-MIDI
+Version: 1.1.0
+Summary: Converts a pretty midi sequence to a boket plot
+Home-page: http://packages.python.org/visual_midi
+Author: Alexandre DuBreuil
+Author-email: code@alexandredubreuil.com
+License: MIT License
+Keywords: midi,bokeh
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Utilities
+Classifier: License :: OSI Approved :: MIT License
+Description-Content-Type: text/markdown
+Requires-Dist: pretty-midi (>=0.2.8)
+Requires-Dist: bokeh (>=2.0.2)
+
+# Visual MIDI
+
+Converts a [pretty midi](https://craffel.github.io/pretty-midi/) sequence to a [bokeh plot](https://bokeh.pydata.org/en/latest/).
+
+## Installation
+
+```bash
+pip install visual_midi
+```
+
+## Usage
+
+See full documentation at [Visual MIDI - GitHub](https://github.com/dubreuia/visual_midi).
+
+
